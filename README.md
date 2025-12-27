@@ -3,19 +3,19 @@
 </head>  
 <body>
 <h1>basic info about me! (⁠*⁠＾⁠3⁠＾⁠)⁠/⁠～⁠♡</h1>
-hi, im <b>faith!</b> also known as <i>wing/wingette</i>. ⁠๑
+hi, im <b>blood debt!</b> also known as <i>faith</i>. ⁠๑
+  <h6>* my name comes from an inside joke LOL</h6>
 <br />
-<p>i often larp around pony town. sitting in spots like the roblox area (usually at <b>the days union pen.</b>), cookie run area, and genshin area. if you dont see me around those areas then maybe im exploring, sitting somewhere else that i havent listed here, or just at party island. :^)</p>
+<p>i sit in spots that my friends usually sit in, but im mostly found around the days union area (aka the pen) </p>
 <hr />
 <h1>basic byi</h1>
   <ul type="square">
-  <li><b>no dni, i block freely.</b></li>
-  <li>i am a wind archer cookie fictkin. my other mains include eternal sugar cookie, and menthol cookie. Mainly doubles dni, unless friends (more info about this in my pronouns.cc)</li>
-  <li>im very awkward with anyone in general, this is because im shy or scared towards people. please dont expect consistent/guaranteed responses as i dont know how to converse with you properly</li>
+  <li><b>i block freely, however to learn more about this, click my rentry.</b></li>
+  <li>im very awkward with people, please expect short or slow responses as i dont know how to converse with you properly</li>
   </ul>
-  <p>more info in <b>strawpage</b>. ✿</p>
+  <p>more info in <b>rentry</b>. ✿</p>
   <hr />
-  <h1>C+H and whispers are always open unless said otherwise. ^_^ please dont be afraid to talk to me! i love friends.</h1>
+  <h1>C+H and whispers are always open unless said otherwise. ^_^ sign my atabook (@blooddebts) b4 you leave, heh!</h1>
   
 </body>
 </html>
